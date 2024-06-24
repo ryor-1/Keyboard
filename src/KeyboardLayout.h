@@ -65,3 +65,4 @@
 #define ALT_GR 0xc0
 #define ISO_KEY 0x64
 #define ISO_REPLACEMENT 0x32
+#define MEDIA_PLAY_PAUSE 0xb3
